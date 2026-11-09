@@ -16,4 +16,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Membaca Itu Asyik](ebook/8-membaca-itu-asyik.pdf)
 9. [Matematika Ada di Mana-Mana](ebook/9-matematika-ada-di-mana-mana.pdf)
 10. [Teman Jadi Musuh](ebook/10-teman-jadi-musuh.pdf)
-11. [Rangkuman UGC PATI](ebook/11-ringkasan-ugc-pati.pdf).
+11. [Rangkuman UGC PATI](ebook/11-ringkasan-ugc-pati.pdf)
